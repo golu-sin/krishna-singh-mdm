@@ -1,0 +1,40 @@
+.highlight {
+    background-color: yellow;
+    text-align: center;
+}
+
+.typesofcodinglanguage{
+    text-align: center;
+    color:black;
+}
+
+.aherf{
+    text-align: center;
+    color: aliceblue;
+    width: 30px;
+    height: 15px;
+    border: 1px solid rgb(49, 52, 53);
+    padding: 10px;
+    background-color:  black;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.aherf2{
+    text-align: center;
+    color: aliceblue;
+    width: 30px;
+    height: 15px;
+    border: 1px solid rgb(49, 52, 53);
+    padding: 10px;
+    background-color:  black;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.para{
+    text-align: center ;
+    font-size: 500;
+}
